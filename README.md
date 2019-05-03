@@ -1,1 +1,1 @@
-# featuretoggle
+# featuretoggleconfigs
